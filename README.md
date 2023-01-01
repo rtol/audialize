@@ -4,7 +4,7 @@ Matlab function for audialization
 This function turns a data series into a tune. It plays the tune and stores it for further processing.
 
 
-Example:
+Example (history of the social cost of carbon on piano, listen to scc.wav)
 
 load piano.mat
 
